@@ -437,4 +437,4 @@ def filename_generate(
 
 
 def get_escaped_command_arg(arg):
-    return quote(arg)
+    return arg
